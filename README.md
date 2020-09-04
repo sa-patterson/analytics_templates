@@ -1,2 +1,2 @@
-# analytics_templates
-A collection of basic starting templates for data science
+![Header](https://github.com/sa-patterson/analytics_templates/blob/master/Analytics%20Templates%20header.png "Header")
+
